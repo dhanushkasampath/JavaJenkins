@@ -1,5 +1,5 @@
 public class Hello{
 	public static void main(String[]args){
-		System.out.println("Hellow Its working");
+		System.out.println("Hellow GIT approach is working");
 	}
 }
